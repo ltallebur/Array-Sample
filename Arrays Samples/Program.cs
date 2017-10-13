@@ -10,8 +10,7 @@ namespace Arrays_Samples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST");
-
+            
             ApplicationUtilities.DisplayApplicationInformation();
             ApplicationUtilities.PauseExecution();
             ApplicationUtilities.DisplayDivider("Simple Array");
