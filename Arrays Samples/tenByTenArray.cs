@@ -27,7 +27,7 @@ namespace Arrays_Samples
 
                     for (int columns = 0; columns < 10; columns++)
                     {
-                        array1[rows, columns] = rows + 1;
+                        //array1[rows, columns] = rows + 1;
 
                         array1[rows, columns] = (rows + 1) * (columns + 1);
                     }
